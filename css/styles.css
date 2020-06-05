@@ -1,0 +1,22 @@
+.colorful {
+  color: blue;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: yellow;
+  background-color: teal;
+  margin: 0 auto;
+  padding: 10px;
+  background-position: center;
+}
+
+.center {
+
+  margin: 0 auto;
+  
+}
