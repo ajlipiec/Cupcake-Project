@@ -13,10 +13,34 @@
   margin: 0 auto;
   padding: 10px;
   background-position: center;
+  text-align: center;
+}
+
+.excited {
+  color: orange;
+}
+
+.blue {
+  color: yellow;
+  background-color: blue;
+}
+
+.green {
+  color: blue;
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+  color: blue;
+}
+
+.red {
+  background-color: red;
+  color: white;
 }
 
 .center {
+  text-align: center;
 
-  margin: 0 auto;
-  
 }
