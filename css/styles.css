@@ -5,6 +5,8 @@
 .flashy {
   color: red;
   font-style: italic;
+  background-color: yellow;
+  
 }
 
 .best {
@@ -14,33 +16,47 @@
   padding: 10px;
   background-position: center;
   text-align: center;
+  font-family: fantasy;
 }
 
 .excited {
   color: orange;
 }
 
+.yellow {
+  background-color: yellow;
+  color: blue;
+  
+}
+
 .blue {
   color: yellow;
   background-color: blue;
+  
+  
 }
 
 .green {
   color: blue;
   background-color: green;
+  
+  
 }
 
-.yellow {
-  background-color: yellow;
-  color: blue;
-}
 
 .red {
   background-color: red;
   color: white;
+  
+  
 }
 
-.center {
-  text-align: center;
+.wide {
+  width: 300px;
+}
 
+.conclusion {
+  float: unset;
+  color: yellow;
+  background-color: teal;
 }
